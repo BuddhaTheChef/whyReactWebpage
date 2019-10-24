@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: lavender;
+  height: 100vh;
 }
 
 .App-logo {
@@ -20,3 +22,77 @@
 .App-link {
   color: #09d3ac;
 }
+
+.nav {
+  box-shadow: 0 4px 8px 7px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 60px;
+  background:#282c34;
+  overflow: hidden;
+  width: 100%;
+  position: fixed;
+  z-index: 5;
+  top: 0;
+  transition: 1s;
+  padding: 40px 0px;
+}
+
+.nav-list {
+  display: inline-flex;
+  justify-content: left;
+  align-items: center;
+  height: inherit;
+  margin:  0 auto;
+  padding: 0;
+  width: 70%;
+  margin-left: 0px;
+}
+
+.nav-list__item {
+  display: block;
+  float: left;
+  padding-left: 2.3rem;
+  padding-right: 2.3rem;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin: 5px;
+  background: #09e6bc;
+  border-radius: 9px;
+  line-height: 2;
+  text-align: right;
+}
+
+.nav-list__item--active:after {
+  content: '';
+  display: block;
+  background: white;
+  transform: rotate(45deg);
+  transform-origin: center;
+}
+
+.nav-list__link {
+  color: black;
+  font-weight: bold;
+  font-size: 1.1rem;
+  text-decoration: none;
+}
+
+.nav-list__item:hover {
+  color: black;
+  background: #09e6bc;
+  transform: scale(1.04);
+}
+
+.ptag {
+  color: magenta;
+  background: lavenderblush;
+  padding: 50px; 
+  font-size: 82px;
+  width: 1578px;
+  height: 175px;
+}
+
+.GettingStarted {
+  color: purple;
+  font-style: italic;
+  font-size: 100px;
+  }
