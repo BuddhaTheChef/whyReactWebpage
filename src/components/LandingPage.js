@@ -16,7 +16,7 @@ class LandingPage extends Component {
           <h1 style={{textAlign: 'center', fontSize: '80px'}}>Why React?</h1>
         </div>
         <section style={ sectionStyle }></section>
-        <div style={{display: 'flex', justifyContent:'center', width: '70%', backgroundColor: 'slategray', flexDirection:'column', margin: '0 auto', height: '300px', padding: '0px 30px', borderRadius: '5px'}}>
+        <div style={{display: 'flex', justifyContent:'center', width: '70%', backgroundColor: 'slategray', flexDirection:'column', margin: '100px auto', height: '300px', padding: '0px 30px', borderRadius: '5px'}}>
           <h3>Whats is React</h3>
           <p>
             React (also known as React.js or ReactJS) is a JavaScript library
@@ -31,7 +31,7 @@ class LandingPage extends Component {
             Router, and axios are examples of such libraries.
           </p>
         </div>
-        <div style={{display: 'flex', justifyContent:'center', width: '70%', backgroundColor: 'slategray', flexDirection:'column', margin: '10px auto', height: '300px', padding: '0px 30px', borderRadius: '5px'}}>
+        <div style={{display: 'flex', justifyContent:'center', width: '70%', backgroundColor: 'slategray', flexDirection:'column', margin: '100px auto', height: '300px', padding: '0px 30px', borderRadius: '5px'}}>
           <h3>Where did React come from?</h3>
           <div>
             <p>
@@ -43,7 +43,7 @@ class LandingPage extends Component {
             </p>
           </div>
         </div>
-        <div style={{display: 'flex', justifyContent:'center', width: '70%', backgroundColor: 'slategray', flexDirection:'column', margin: '10px auto', height: '600px', padding: '0px 30px', borderRadius: '5px'}}>
+        <div style={{display: 'flex', justifyContent:'center', width: '70%', backgroundColor: 'slategray', flexDirection:'column', margin: '100px auto', height: '600px', padding: '0px 30px', borderRadius: '5px'}}>
           <h3>Pros and Cons of React</h3>
           <h4>Advantage of ReactJS</h4>
           <ol>
@@ -64,7 +64,7 @@ class LandingPage extends Component {
               <li>JSX as a barrier</li>
           </ol>
         </div>
-        <div style={{display: 'flex', justifyContent:'center', width: '70%', backgroundColor: 'slategray', flexDirection:'column', margin: '10px auto', height: '300px', padding: '0px 30px', borderRadius: '5px'}}>
+        <div style={{display: 'flex', justifyContent:'center', width: '70%', backgroundColor: 'slategray', flexDirection:'column', margin: '100px auto', height: '300px', padding: '0px 30px', borderRadius: '5px'}}>
             <h3>What is JSX?</h3>
             <p>
             Basically, by using JSX you can write concise HTML/XML-like structures
