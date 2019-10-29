@@ -17,7 +17,7 @@ class LandingPage extends Component {
         </div>
         <section style={ sectionStyle }></section>
         <div class="landing-page-divs">
-          <h3>Whats is React</h3>
+          <h3 style={{color: '#09b7d6'}}>Whats is React</h3>
           <p>
             React (also known as React.js or ReactJS) is a JavaScript library
             for building user interfaces. It is maintained by Facebook and a
@@ -34,7 +34,7 @@ class LandingPage extends Component {
         <div class="combine-div">
         <div style={{flexDirection: 'column', width: 'inherit', justifyContent: 'start', display: 'flex'}}>
         <div class="landing-page-divs-2">
-          <h3>Where did React come from?</h3>
+          <h3 style={{color: '#09b7d6'}}>Where did React come from?</h3>
           <div>
             <p>
               React was created by Jordan Walke, a software engineer at
@@ -50,8 +50,8 @@ class LandingPage extends Component {
         </div>
         </div>
         <div class="landing-page-divs-pc">
-          <h3>Pros and Cons of React</h3>
-          <h4>Advantage of ReactJS</h4>
+          <h3 style={{color: '#09b7d6'}}>Pros and Cons of React</h3>
+          <h4 style={{color: '#09b7d6'}}>Advantage of ReactJS</h4>
           <ol>
             <li>Easy to Learn and Use</li>
             <li>Creating Dynamic Web Applications Becomes Easier</li>
@@ -62,7 +62,7 @@ class LandingPage extends Component {
             <li>The benefit of Having JavaScript Library</li>
             <li>Scope for Testing the Codes</li>
           </ol>
-          <h4>Disadvantage of ReactJS</h4>
+          <h4 style={{color: '#09b7d6'}}>Disadvantage of ReactJS</h4>
           <ol>
               <li>The high pace of development</li>
               <li>Poor Documentation</li>
@@ -72,7 +72,7 @@ class LandingPage extends Component {
         </div>
         </div>
         <div class="landing-page-divs">
-            <h3>What is JSX?</h3>
+            <h3 style={{color: '#09b7d6'}}>What is JSX?</h3>
             <p>
             Basically, by using JSX you can write concise HTML/XML-like structures
              (e.g., DOM like tree structures) in the same file as you write JavaScript 
