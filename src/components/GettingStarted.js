@@ -10,8 +10,7 @@ export default class GettingStarted extends Component {
 
                 <p className="ptag"> 
                     I will teach you how to get started.
-                     </p>
-                
+                </p>   
             </div>
         )
     }

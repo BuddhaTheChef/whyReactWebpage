@@ -6,6 +6,7 @@ import GettingStarted from './components/GettingStarted';
 import CommandTips from './components/CommandTips';
 import Jobs from './components/Jobs';
 import NavBar from './components/NavBar';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/CommandTips" component={CommandTips} />
           <Route path="/Jobs" component={Jobs}/>
     </Switch>
+    <Footer/>
     </div>
 </Router>
   );
