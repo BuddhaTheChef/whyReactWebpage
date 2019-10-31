@@ -156,3 +156,35 @@ body {
   font-style: italic;
   font-size: 100px;
   }
+
+  .gettingStartedDiv {
+    background: slategray;
+    height: inherit;
+    width: 60%;
+    margin: 60px auto;
+    padding: 50px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 7px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  .gettingStartedDivPic {
+    background: slategray;
+    height: 300px;
+    width: 60%;
+    margin: 60px auto;
+    padding: 50px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 7px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  .gettingStartedVideoDiv {
+    background-color:#05d9fe; 
+    height: 60vh; 
+    width: 85%; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    margin: 70px auto 150px auto;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 7px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
