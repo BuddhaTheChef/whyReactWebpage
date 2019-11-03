@@ -46,7 +46,23 @@ class LandingPage extends Component {
           </div>
         </div>
         <div class="landing-div-content">
-        Insert coding example here
+          <pre>
+            <code>
+            &lt;script&gt;
+            <br/>
+            <br/>
+              ReactDOM.render(
+                <br/>
+                &lt;h1&gt;Hello React!&lt;/h1&gt;,
+                <br/>
+                  document.getElementById(&quot;root&quot;)
+                  <br/>
+                );
+                <br/>
+                <br/>
+            &lt;script&gt;
+            </code>
+            </pre>
         </div>
         </div>
         <div class="landing-page-divs-pc">
