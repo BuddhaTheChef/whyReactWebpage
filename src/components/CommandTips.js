@@ -6,7 +6,7 @@ export default class CommandTips extends Component {
             <div>
                 <h1 style={{textAlign: 'center', marginTop: '80px', fontSize: '70px'}}>Command Tips</h1>
                 <div className="gettingStartedVideoDiv">
-                <iframe title="reactvid" width="920" height="555" src="https://www.youtube.com/embed/TFfFllIcdlQ?controls=0&amp;start=1" frameborder="0" allow="accelerometer; autoplay=1; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe title="reactvid" width="920" height="555" src="https://youtu.be/xa-_FIy2NgE" frameborder="0" allow="accelerometer; autoplay=1; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 <div className="gettingStartedDivPic">
                     Insert Pic here
@@ -54,6 +54,8 @@ export default class CommandTips extends Component {
                     Insert Pic Here
                 </div>
                 <div className="gettingStartedDiv">
+            
+            //Daniel part.....
                 <h3>Step 4</h3>
                     <p>
                     . Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
