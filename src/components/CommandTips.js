@@ -68,10 +68,6 @@ export default class CommandTips extends Component {
                     Insert Pic Here
                 </div>
             
-            
-            
-            //Daniel's part
-              
               <div>
                 <h1 style={{textAlign: 'center', marginTop: '80px', fontSize: '70px'}}>Command Tips</h1>
                 <div className="gettingStartedVideoDiv">
