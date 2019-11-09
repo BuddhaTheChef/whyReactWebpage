@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/whyReactWebpage/static/css/main.1a24f703.chunk.css",
+    "main.js": "/whyReactWebpage/static/js/main.dcff7eb4.chunk.js",
+    "main.js.map": "/whyReactWebpage/static/js/main.dcff7eb4.chunk.js.map",
+    "runtime-main.js": "/whyReactWebpage/static/js/runtime-main.fbf923a0.js",
+    "runtime-main.js.map": "/whyReactWebpage/static/js/runtime-main.fbf923a0.js.map",
+    "static/js/2.807903dd.chunk.js": "/whyReactWebpage/static/js/2.807903dd.chunk.js",
+    "static/js/2.807903dd.chunk.js.map": "/whyReactWebpage/static/js/2.807903dd.chunk.js.map",
+    "index.html": "/whyReactWebpage/index.html",
+    "precache-manifest.33e3aa95e9f6c932d0c01fef566effd5.js": "/whyReactWebpage/precache-manifest.33e3aa95e9f6c932d0c01fef566effd5.js",
+    "service-worker.js": "/whyReactWebpage/service-worker.js",
+    "static/css/main.1a24f703.chunk.css.map": "/whyReactWebpage/static/css/main.1a24f703.chunk.css.map",
+    "static/media/react1.png": "/whyReactWebpage/static/media/react1.23bc843e.png",
+    "static/media/react2.png": "/whyReactWebpage/static/media/react2.dc8cf0a8.png",
+    "static/media/react3.png": "/whyReactWebpage/static/media/react3.6a149648.png",
+    "static/media/react4.png": "/whyReactWebpage/static/media/react4.22ca91c6.png",
+    "static/media/react5.png": "/whyReactWebpage/static/media/react5.5587b7db.png",
+    "static/media/react6.png": "/whyReactWebpage/static/media/react6.a8aa9cf3.png",
+    "static/media/react7.png": "/whyReactWebpage/static/media/react7.35ed1bee.png",
+    "static/media/react8.png": "/whyReactWebpage/static/media/react8.948baccb.png",
+    "static/media/reactImg2.png": "/whyReactWebpage/static/media/reactImg2.f1983365.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbf923a0.js",
+    "static/js/2.807903dd.chunk.js",
+    "static/css/main.1a24f703.chunk.css",
+    "static/js/main.dcff7eb4.chunk.js"
+  ]
+}
