@@ -1,4 +1,12 @@
 import React, { Component } from "react";
+import React1 from '../assets/react1.png'
+import React2 from '../assets/react2.png'
+import React3 from '../assets/react3.png'
+import React4 from '../assets/react4.png'
+import React5 from '../assets/react5.png'
+import React6 from '../assets/react6.png'
+import React7 from '../assets/react7.png'
+import React8 from '../assets/react8.png'
 
 export default class Jobs extends Component {
   render() {
@@ -6,18 +14,16 @@ export default class Jobs extends Component {
       <div>
         <h1 style={{textAlign: 'center', fontSize: '50px'}}>Jobs</h1>
         <div style={{display: 'flex', justifyContent: 'space-around'}}>
-              <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'18%'}}>stuff</div>
-              <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'18%'}}>stuff</div>
-              <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'18%'}}>stuff</div>
-              <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'18%'}}>stuff</div>
-              <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'18%'}}>stuff</div>
+              <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'24%'}}><img src={React1} className="picJob" alt="job pic"/></div>
+              <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'24%'}}><img src={React2} className="picJob" alt="job pic"/></div>
+              <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'24%'}}><img src={React3} className="picJob" alt="job pic"/></div>
+              <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'24%'}}><img src={React4} className="picJob" alt="job pic"/></div>
           </div>
           <div style={{display: 'flex', justifyContent: 'space-around', marginTop: '20px'}}>
-              <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'18%'}}>stuff</div>
-              <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'18%'}}>stuff</div>
-              <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'18%'}}>stuff</div>
-              <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'18%'}}>stuff</div>
-              <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'18%'}}>stuff</div>
+              <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'24%'}}><img src={React5} className="picJob" alt="job pic"/></div>
+              <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'24%'}}><img src={React6} className="picJob" alt="job pic"/></div>
+              <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'24%'}}><img src={React7} className="picJob" alt="job pic"/></div>
+              <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'24%'}}><img src={React8} className="picJob" alt="job pic"/></div>
           </div>
         <div style={{color:'#05d9fe',background: 'slategray', width: '80%', display: 'flex', alignItems: 'center', margin: '50px auto', padding: '30px', lineHeight: '2', fontSize: '20px', borderRadius: '4px', border: 'whitesmoke 1px solid', textAlign: 'center', fontWeight: 'bolder'}}>
           The average React Js Developer salary in the USA is $125,000 per year
