@@ -103,6 +103,7 @@ body {
   padding: 0px 30px;
   border-radius: 5px; 
   line-height: 30px;
+  box-shadow: 0 4px 8px 7px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .landing-page-divs-2 {
@@ -116,6 +117,7 @@ body {
   border-radius: 5px; 
   line-height: 30px;
   display: flex;
+  box-shadow: 0 4px 8px 7px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .landing-page-divs-pc {
@@ -128,6 +130,7 @@ body {
   border-radius: 5px; 
   height: 700px;
   line-height: 30px;
+  box-shadow: 0 4px 8px 7px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .landing-div-content {
@@ -141,6 +144,7 @@ body {
   padding: 0px 30px;
   margin: 35px 10px 20px 10px;
   border:2px whitesmoke solid;
+  box-shadow: 0 4px 8px 7px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .ptag {
