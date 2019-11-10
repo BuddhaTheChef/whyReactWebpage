@@ -25,17 +25,17 @@ export default class Jobs extends Component {
               <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'24%'}}><img src={React7} className="picJob" alt="job pic"/></div>
               <div style={{display: 'inline-flex', background: 'gray', height: '350px', width:'24%'}}><img src={React8} className="picJob" alt="job pic"/></div>
           </div>
-        <div style={{color:'#05d9fe',background: 'slategray', width: '80%', display: 'flex', alignItems: 'center', margin: '50px auto', padding: '30px', lineHeight: '2', fontSize: '20px', borderRadius: '4px', border: 'whitesmoke 1px solid', textAlign: 'center', fontWeight: 'bolder'}}>
+        <div style={{color:'#05d9fe',background: 'slategray', width: '80%', display: 'flex', alignItems: 'center', margin: '50px auto', padding: '30px', lineHeight: '2', fontSize: '20px', borderRadius: '4px', border: 'whitesmoke 1px solid', textAlign: 'center', fontWeight: 'bolder',boxShadow: '0 4px 8px 7px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
           The average React Js Developer salary in the USA is $125,000 per year
           or $64.10 per hour. Entry-level positions start at $63,050 per year
           while most experienced workers make up to $195,000 per year.
           </div>
-          <div style={{background: 'slategray', width: '80%', display: 'flex', alignItems: 'center', margin: '50px auto', padding: '30px', lineHeight: '2', fontSize:'20px', borderRadius: '4px', border: 'whitesmoke 1px solid'}}>
+          <div style={{background: 'slategray', width: '80%', display: 'flex', alignItems: 'center', margin: '50px auto', padding: '30px', lineHeight: '2', fontSize:'20px', borderRadius: '4px', border: 'whitesmoke 1px solid', boxShadow: '0 4px 8px 7px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
            React on
           and by itself is a fast thing to learn, especially considering you are
           a developer or at least have some familiarity with writing code.
          </div>
-          <div style={{background: 'slategray', width: '80%', display: 'flex', alignItems: 'center', margin: '50px auto', padding: '30px', lineHeight: '2', flexDirection: 'column', borderRadius: '4px', border: 'whitesmoke 1px solid'}}>
+          <div style={{background: 'slategray', width: '80%', display: 'flex', alignItems: 'center', margin: '50px auto', padding: '30px', lineHeight: '2', flexDirection: 'column', borderRadius: '4px', border: 'whitesmoke 1px solid',boxShadow: '0 4px 8px 7px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
           <h3>What does a React developer do?</h3>
           React developer will be creating the
           interactive part of the web, by creating components that can send and
@@ -43,7 +43,7 @@ export default class Jobs extends Component {
           rendering of components which is having customized requirements.
           </div>
           <div style={{width: '100%', display: 'flex'}}>
-          <div style={{background: 'slategray', width: '33%', display: 'inline-flex', alignItems: 'center', margin: '50px auto', padding: '30px', lineHeight: '2', flexDirection: 'column', borderRadius: '4px', border: 'whitesmoke 1px solid'}}>
+          <div style={{background: 'slategray', width: '33%', display: 'inline-flex', alignItems: 'center', margin: '50px auto', padding: '30px', lineHeight: '2', flexDirection: 'column', borderRadius: '4px', border: 'whitesmoke 1px solid',boxShadow: '0 4px 8px 7px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
           <h3>How long will it take?</h3>
           The short answer is it will take you between
           1-12 months of learning to become proficient with React. This depends
@@ -52,7 +52,7 @@ export default class Jobs extends Component {
           39,441 responses. In short, 33 percent of employers need to have React
           skills, but only 19 percent of developers said they had known React.
           </div>
-          <div style={{background: 'slategray', width: '33%', display: 'inline-flex', alignItems: 'center', margin: '50px auto', padding: '30px', lineHeight: '2', flexDirection: 'column', borderRadius: '4px', border: 'whitesmoke 1px solid'}}>
+          <div style={{background: 'slategray', width: '33%', display: 'inline-flex', alignItems: 'center', margin: '50px auto', padding: '30px', lineHeight: '2', flexDirection: 'column', borderRadius: '4px', border: 'whitesmoke 1px solid',boxShadow: '0 4px 8px 7px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
           <h3>FACTS</h3> 
           <ul>
               <li>Since React is a JS library, there is no way around learning JavaScript.</li>
