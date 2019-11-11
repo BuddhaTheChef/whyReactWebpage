@@ -1,0 +1,21 @@
+
+.centervideo {width: 100%; display: flex; justify-content: center; align-items: center;}
+
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #1b72f3;
+}
+
+p {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+}
+
+a {
+  text-decoration: none;
+  color: #1b72f3;
+}
+    
