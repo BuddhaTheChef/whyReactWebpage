@@ -199,3 +199,32 @@ body {
     box-shadow: 0 4px 8px 7px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border-radius: 6px;
   }
+
+  .gettingStartedMainDiv {
+    display: flex;
+    justify-content: space-around;
+  
+  }
+
+  .gettingStartedDiv1 {
+    background: slategray;
+    height: inherit;
+    width: 40%;
+    margin: 70px auto;
+    padding: 50px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 7px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: inline-flex;
+    flex-direction: column;
+  }
+
+  .gettingStartedDivPic1 {
+    display: inline-flex;
+    background: slategray;
+    height: 300px;
+    width: 40%;
+    margin: 30px auto;
+    padding: 50px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 7px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
