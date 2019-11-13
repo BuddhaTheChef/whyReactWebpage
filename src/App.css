@@ -228,3 +228,19 @@ body {
     border-radius: 5px;
     box-shadow: 0 4px 8px 7px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
+
+  .gsPics {
+    width: 100%;
+  }
+
+  .gettingStartedVideoDiv1 {
+    background-color: purple; 
+    height: 70vh; 
+    width: 96%; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    margin: 70px auto 150px auto;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 7px rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
