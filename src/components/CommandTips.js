@@ -45,7 +45,7 @@ export default class CommandTips extends Component {
                 </div>
               </div>
             
-                <div className="gettingStartedDivPic">
+                {/* <div className="gettingStartedDivPic">
                     Insert Pic Here
                 </div>
                 <div className="gettingStartedDiv">
@@ -86,7 +86,7 @@ export default class CommandTips extends Component {
                      sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like
                       Aldus PageMaker including versions of Lorem Ipsum.
                     </p>
-                </div>
+                </div> */}
             </div>
         )
     }
